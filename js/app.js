@@ -1,1 +1,2 @@
-var taskList = angular.module('ToDoListApplication',['ngResource','xeditable']);
+ var taskList = angular.module('ToDoListApplication',['ngResource','xeditable']);
+ 
